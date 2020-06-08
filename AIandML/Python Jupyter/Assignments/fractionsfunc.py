@@ -1,0 +1,12 @@
+def fraction(x,y):
+    print("Fraction is:",x/y)
+def add(a,b,c,d):
+    print('add ',(a/b)+(c/d))
+def sub(a,b,c,d):
+    print('sub ',(a/b)-(c/d))
+def div(a,b,c,d):
+    print('div ',(a/b)-(c/d))
+def mul(a,b,c,d):
+    print('mul ',(a/b)*(c/d))
+def mod(a,b,c,d):
+    print('mod ',(a/b)%(c/d))
